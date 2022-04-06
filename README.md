@@ -2,8 +2,8 @@
 
 [Release](https://github.com/ozturkgizem/image-processing-MTM4552/releases/tag/arsiv) kısmından güncel arşivlere ulaşabilirsiniz.
 
-- [Hafta 2](https://raw.githubusercontent.com/ozturkgizem/image-processing-MTM4552/main/DIP-08.03.22.rar)
-- [Hafta 3](https://raw.githubusercontent.com/ozturkgizem/image-processing-MTM4552/main/binaryreadandwrite-15.03.22.rar)
-- [Hafta 4](https://raw.githubusercontent.com/ozturkgizem/image-processing-MTM4552/main/22-03-2022.rar)
-- [Hafta 5](https://raw.githubusercontent.com/ozturkgizem/image-processing-MTM4552/main/29-03-2022.rar)
-- [Hafta 6](https://raw.githubusercontent.com/ozturkgizem/image-processing-MTM4552/main/05-04-2022.rar)
+- [Hafta 2](https://github.com/ozturkgizem/image-processing-MTM4552/releases/download/6.hafta/03.08-DIP.zip)
+- [Hafta 3](https://github.com/ozturkgizem/image-processing-MTM4552/releases/download/6.hafta/03.15-binary_read_and_write.zip)
+- [Hafta 4](https://github.com/ozturkgizem/image-processing-MTM4552/releases/download/6.hafta/03.22.zip)
+- [Hafta 5](https://github.com/ozturkgizem/image-processing-MTM4552/releases/download/6.hafta/03.29.zip)
+- [Hafta 6](https://github.com/ozturkgizem/image-processing-MTM4552/releases/download/6.hafta/04.05.zip)
